@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hannah Casey
+
+Frontend engineer at the Swiss Data Science Center. 
+
+digital humanities × design × code. Zurich.
+
 
 <!--
 **hanaCasey/hanaCasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
