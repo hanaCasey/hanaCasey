@@ -2,7 +2,7 @@
 
 Frontend engineer at the Swiss Data Science Center. 
 
-digital humanities × design × code. Zurich.
+digital humanities × design × code
 
 
 <!--
