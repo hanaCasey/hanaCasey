@@ -32,7 +32,7 @@ I love spending time away from screens, working as an **extra at the opera** and
       My personal website, shared with my brother Martin: two little pixel worlds that follow our week,
       picking a scene from the clock. Nudge the characters around or tap them to say hello.
       <br /><br />
-      <code>JavaScript</code> <code>pixel art</code> <code>Python</code> <code>no build step</code>
+      <code>JavaScript</code> <code>pixel art</code> <code>Python</code>
     </td>
   </tr>
 </table>
