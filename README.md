@@ -4,7 +4,7 @@
   <a href="https://www.ravelry.com/people/alpineswifts"><img src="https://img.shields.io/badge/Ravelry-alpineswifts-ee6e62?style=flat&logo=ravelry&logoColor=white" alt="Ravelry" /></a>
   <a href="https://www.instagram.com/hana__crafts"><img src="https://img.shields.io/badge/Instagram-hana____crafts-e4405f?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://github.com/sdsc-ordes"><img src="https://img.shields.io/badge/SDSC-sdsc--ordes-1f4e8c?style=flat&logo=github&logoColor=white" alt="SDSC on GitHub" /></a>
-  <img src="https://img.shields.io/badge/Website-coming%20soon-555555?style=flat&logo=googlechrome&logoColor=white" alt="Website coming soon" />
+  <a href="https://caseys.ch"><img src="https://img.shields.io/badge/Website-caseys.ch-555555?style=flat&logo=googlechrome&logoColor=white" alt="Website: caseys.ch" /></a>
   <img src="https://img.shields.io/badge/Zurich-CH-d52b1e?style=flat&logo=googlemaps&logoColor=white" alt="Based in Zurich" />
 </p>
 
@@ -23,6 +23,19 @@ fields, from **biomedical research to ecology**, and I take part in projects
 I love spending time away from screens, working as an **extra at the opera** and making **fiber arts**.
 
 ### Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://caseys.ch"><img src="assets/projects/caseys.png" alt="Caseys" width="280" /></a>
+      <h3><a href="https://caseys.ch">Caseys</a></h3>
+      My personal website, shared with my brother Martin: two little pixel worlds that follow our week,
+      picking a scene from the clock. Nudge the characters around or tap them to say hello.
+      <br /><br />
+      <code>JavaScript</code> <code>pixel art</code> <code>Python</code> <code>no build step</code>
+    </td>
+  </tr>
+</table>
 
 #### At SDSC
 
@@ -93,7 +106,7 @@ I love spending time away from screens, working as an **extra at the opera** and
     <td width="50%" valign="top">
       <a href="https://www.stadelhofen-shiatsu.ch"><img src="assets/projects/shiatsu-stadelhofen.jpg" alt="Shiatsu Stadelhofen" width="280" /></a>
       <h3><a href="https://www.stadelhofen-shiatsu.ch">Shiatsu Stadelhofen</a></h3>
-      A website for a shiatsu practice at Zurich Stadelhofen.
+      A website for a shiatsu practice in Zurich.
       <br /><br />
       <code>React</code> <code>Vite</code> <code>TypeScript</code> <code>Tailwind</code>
     </td>
